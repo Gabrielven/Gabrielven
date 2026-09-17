@@ -47,4 +47,3 @@
 </p>
 <hr>
 <p>Credits: <a href="https://github.com/EmmadiDivyaSrujana">EmmadiDivyaSrujana</a></p>
-<p>Last Edited on: 29/11/2020</p>
