@@ -47,4 +47,3 @@
 <a href="https://github.com/Gabrielven"><img src="https://img.shields.io/badge/-Gabriel-black?logo=github&amp;style=flat-square"></a>
 </p>
 <hr>
-<p>Credits: <a href="https://github.com/EmmadiDivyaSrujana">EmmadiDivyaSrujana</a></p>
