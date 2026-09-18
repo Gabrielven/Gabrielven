@@ -1,5 +1,5 @@
- <h3 id="hello-world-yellow_heart">Hello World! </h3>
-<img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width="200/">
+ <h3 id="hello-world">Hello World! </h3>
+<p>My name is Gabriel </p>
 <hr>
 <h2 id="my-skills-computer">My Skills :computer:</h2>
 <ul>
@@ -15,6 +15,7 @@
 <img height="60px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
 </table>
+<hr>
 <ul>
 <li><strong>Web Development</strong></li>
 </ul>
